@@ -1,2 +1,2 @@
-# Projeto:
-          Marketing campaign: Análise de dados usando Python
+# Marketing campaign: Análise de dados usando Python
+          
